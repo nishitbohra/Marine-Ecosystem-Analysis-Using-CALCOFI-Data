@@ -1,1 +1,2 @@
 # Marine-Ecosystem-Analysis-Using-CALCOFI-Data
+Analyzed the CALCOFI dataset to study changes in marine ecosystems by examining environmental and biological patterns. The project focused on predicting ecosystem shifts to help manage coastal areas sustainably. Insights from the analysis were designed to support long-term conservation efforts, improve resource planning, and guide policies to protect marine biodiversity.
